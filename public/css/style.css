@@ -3,6 +3,7 @@ body
     background: #e9e8e8;
     padding: 0;
     margin: 0;
+    font-family: Brush Script Std;
 }
 nav
 {
@@ -11,7 +12,7 @@ nav
     margin-top: -10px;
     color: rgb(255, 255, 255);
     font-size: 40px;
-    font-family: 'Franklin Gothic Medium';
+    margin-bottom: 50px;
 }
 h1
 {
@@ -64,7 +65,19 @@ a
     text-decoration: none;
     color: #FFFFFF;
 }
-ol
+.bc
 {
-    float: left;
+  float:left;
+  margin-left: 0px;
+  margin-right: 20px; 
+  width:auto;
+  height:37px;
+  color: #ffffff;
+  text-align:center;
+  line-height:35px;
+}
+.bc:hover
+{
+  background: #FFFFFF;
+  color: #021f5e;
 }

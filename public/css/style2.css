@@ -1,0 +1,43 @@
+#hum
+{
+    background: #021f5e;
+    width: 75%;
+    height: 600PX;
+    margin: auto auto;
+}
+img
+{
+    height: 70%;
+    margin-left: 5%;
+}
+h1
+{
+    font-size: 45px;
+    color:  #FFFFFF;
+    text-align: center;
+}
+#ni
+{
+    margin-left: 28%;
+    font-family: Brush Script Std;
+    margin-top: -420px;
+    height: fit-content;
+    width: fit-content;
+    background: #021f5e;
+    /*float:left;*/
+}
+#ni th{
+    padding: 5px 7px;
+}
+#ni td{
+    text-align: center;
+    padding: 5px ;
+}
+.aa
+{
+    margin-left: 20px;
+    color: #FFFFFF;
+    font-size: 25px;
+    line-height: 60px;
+}
+

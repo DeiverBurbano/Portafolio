@@ -1,0 +1,54 @@
+h1
+{
+    margin: auto auto;
+    text-align: center;
+    background: #021f5e;
+    color: #ffffff;
+    width: 24%;
+    font-size: 60px;
+}
+.uno
+{
+    width: 25%;
+    height: 200px;
+    margin-left: 8%;
+    background: #021f5e;
+    margin-top: 100px;
+}
+.two
+{
+    width: 25%;
+    height: 200px;
+    margin-left: 38%;
+    background: #021f5e;
+    margin-top: -200px;
+}
+.tree
+{
+    width: 25%;
+    height: 200px;
+    margin-left: 68%;
+    background: #021f5e;
+    margin-top: -200px;
+}
+h3
+{
+    color: #ffffff;
+    text-align: center;
+}
+img
+{
+    margin-left: 20px;
+    margin-top: -20px;
+}
+p
+{
+    font-size: 20px;
+    margin-left: 38%;
+    margin-top: -105px;
+    margin-right: 20px;
+}
+.pau
+{
+    margin-top: 10px;
+}

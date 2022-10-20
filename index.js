@@ -17,20 +17,32 @@ app.get('/educacion', (req, res) => {
   res.render('educacion'),
   {
     titulo: "seccion de educacion",
-    descripcion: "Aquí enocntráras mi formación académica"
+    descripcion: "Aquí encontráras mi formación académica"
   }
 })
 
 app.get('/exp', (req, res) => {
-  res.send('Pagina de experiencia laboral')
+  res.render('exp'),
+  {
+    titulo: "seccion de experiencia laboral",
+    descripcion: "Aquí encontráras mi experiencia laboral"
+  }
 })
 
 app.get('/inf', (req, res) => {
-  res.send('Pagina de información personal')
+  res.render('inf'),
+  {
+    titulo: "seccion de informacion personal",
+    descripcion: "Aquí encontráras mi ubformacion personal"
+  }
 })
 
 app.get('/hab', (req, res) => {
-  res.send('Pagina de habilidades')
+  res.render('hab'),
+  {
+    titulo: "seccion de habilidades",
+    descripcion: "Aquí encontráras mi experiencia laboral"
+  }
 })
 
 app.use((req, resp, next)=>{

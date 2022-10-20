@@ -1,0 +1,29 @@
+.one
+{
+    margin-top: 150px;
+    margin-left: 15%;
+    width: 70%;
+    height: 400px;
+    background: #021f5e;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 23px;
+}
+.two
+{
+    margin-left: 30%;
+    width: 60%;
+    height: 85%;
+    background: transparent;
+    margin-top: -350px;
+}
+.si
+{
+    margin-top: 3%;
+    height: 80%;
+}
+p
+{
+    color: #FFFFFF;
+    margin-left: 2%;
+    margin-right: 3%;
+}
